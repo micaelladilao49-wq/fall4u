@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #111;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+
+header p {
+    margin: 5px;
+    color: #bbb;
+}
+
+.music-box {
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+.music-box img {
+    width: 100%;
+    max-width: 350px;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+audio {
+    width: 100%;
+}
+
+.lyrics {
+    max-width: 600px;
+    margin: 30px auto;
+    line-height: 1.8;
+    font-size: 16px;
+}
